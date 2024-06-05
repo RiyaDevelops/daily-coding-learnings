@@ -14,7 +14,7 @@
  - Today I implemented min-width and max width media queries for a landing page project for a client. I learned more about resposive design and the importance of tailoring each media querie to what the design calls for.
 
 ## June 4 2024
- - Shopify article that talked about how to get better at SEO web design is, why it’s important. Imemtnting these skills will allow for better ranking websites on google. "The development team will fight to keep the visual and user aspect of the site very simplistic, while the SEO team will want to ensure the site has enough content so Google can rank it effectively for user search queries."
+ - Shopify article that talked about how to get better at SEO web design is, why it’s important. Implementing these skills will allow for better ranking websites on google. "The development team will fight to keep the visual and user aspect of the site very simplistic, while the SEO team will want to ensure the site has enough content so Google can rank it effectively for user search queries."
  # https://www.shopify.com/partners/blog/seo-web-design
 
 
