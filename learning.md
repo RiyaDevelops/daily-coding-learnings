@@ -11,5 +11,7 @@
     # https://dimsemenov.com/plugins/magnific-popup/
 
 ## June 3, 2024 
+ - Today I implemented min-width and max width media queries for a landing page project for a client. I learned more about resposive design and the importance of tailoring each media querie to what the design calls for.
+
 
 
